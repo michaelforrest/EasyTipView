@@ -62,7 +62,7 @@ public class EasyTipView: UIView {
         static let arrowHeight          :   CGFloat =   5
         static let arrowWidth           :   CGFloat =   10
         static let bubbleHInset         :   CGFloat =   10
-        static let bubbleVInset         :   CGFloat =   1
+        static let bubbleVInset         :   CGFloat =   10
         static let textHInset           :   CGFloat =   19
         static let textVInset           :   CGFloat =   15
         static let bubbleCornerRadius   :   CGFloat =   5
